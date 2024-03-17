@@ -22,7 +22,7 @@ https://github.com/nikyy2/Password-Manager/assets/158007947/6d79fc7c-d3b4-4233-9
 - Catch exceptions that might occur to access data.json
 
 
-
+#IMPORTANT / CREDIT
 
 
 
