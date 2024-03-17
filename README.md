@@ -2,7 +2,7 @@ Hey this is NikyOfficial, the source code is https://github.com/alvarezmike/35da
 
 I just want to share with y'all this useful tool to Manager Password for all website.
 
-And YESS, I might update a beautiful GUI soon!!!
+And YESS, I might update a new GUI soon!!! (if you have any ideas, please dms nikyofficial on discord)
 
 # Features
 - JSON data
