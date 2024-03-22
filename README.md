@@ -12,7 +12,7 @@ https://github.com/nikyy2/Password-Manager/assets/158007947/6d79fc7c-d3b4-4233-9
 
 # Might Add New GUI soon | maybe ugly ;( 
 
-![Screenshot 2024-03-16 214837](https://github.com/nikyy2/Password-Manager/assets/158007947/65a3fdb4-0624-4a0b-adf7-3524a4fc8b1c)
+
 
 # FIXED
 - Added 'search' button
@@ -31,6 +31,4 @@ https://github.com/nikyy2/Password-Manager/assets/158007947/6d79fc7c-d3b4-4233-9
 
 
 - All credit to https://github.com/alvarezmike/35daysOfPython/tree/main/Day30/improved-password-manager / https://github.com/alvarezmike
-- All credit to https://github.com/alvarezmike/35daysOfPython/tree/main/Day30/improved-password-manager / https://github.com/alvarezmike
-- All credit to https://github.com/alvarezmike/35daysOfPython/tree/main/Day30/improved-password-manager / https://github.com/alvarezmike
-- All credit to https://github.com/alvarezmike/35daysOfPython/tree/main/Day30/improved-password-manager / https://github.com/alvarezmike
+
