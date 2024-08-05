@@ -10,6 +10,9 @@ And YESS, I might update a new GUI soon!!! (if you have any ideas, please dms ni
 
 https://github.com/nikyy2/Password-Manager/assets/158007947/6d79fc7c-d3b4-4233-9095-498cb4680284
 
+![nikymetaa](https://github.com/user-attachments/assets/3b508c28-431d-407d-a327-b786ef803ab7)
+
+
 # Might Add New GUI soon | maybe ugly ;( 
 
 
